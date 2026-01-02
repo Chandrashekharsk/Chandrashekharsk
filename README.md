@@ -14,10 +14,6 @@ Cybersecurity: With a keen interest in cybersecurity, I spend time exploring vul
 
 ### ✍️ Random Dev Quote
 ! Every next level of your life demands you different, So keep updating yourself.
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Chandrashekharsk&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Chandrashekharsk&icon=0&color=0)](https://visitcount.itsvg.in)
 
