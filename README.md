@@ -16,10 +16,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Chandrashekharsk">
-<img src="https://img.shields.io/badge/GitHub-Follow-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://instagram.com/chandrashekhar_zz">
 <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
