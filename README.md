@@ -1,31 +1,46 @@
 # 💫 Hi, I'm Chandrashekhar Singh Kushwaha
 
-### ☕ Java Full Stack Developer | Spring Boot Engineer | Software Developer
+### ☕ Java Full Stack Developer | Software Developer
+
+---
+
+# 🌍 Let's Connect
 
 <p align="center">
-  <i>Building scalable backends, responsive frontends, and reliable full-stack applications.</i>
-</p>
 
-<p align="center">
-  <a href="https://ichandrashekhar.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-0A66C2?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/Chandrashekharsk">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://ichandrashekhar.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-0A66C2.svg?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/chandrashekarsk">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Chandrashekharsk">
+<img src="https://img.shields.io/badge/GitHub-Follow-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/chandrashekhar_zz">
+<img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/cs9981625252">
+<img src="https://img.shields.io/badge/X-Follow-black.svg?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Java Full Stack Developer** passionate about designing and developing **scalable, secure, and maintainable web applications**.
+I'm a **Java Full Stack Developer** passionate about designing and developing **scalable, secure, maintainable, and production-ready web applications**.
 
-My primary expertise lies in **Java, Spring Boot, Hibernate/JPA, REST APIs, MySQL, and React**, allowing me to work across the complete application stack — from database design and backend architecture to responsive frontend development.
+My primary expertise lies in **Java, Spring Boot, Hibernate/JPA, REST APIs, MySQL, and React**, allowing me to work across the complete application stack — from **database design and backend architecture to responsive frontend development**.
 
-I enjoy solving complex problems, improving application performance, and turning ideas into **production-ready software**.
+I enjoy solving complex problems, improving application performance, and turning ideas into reliable software.
 
-With a strong foundation in **Data Structures & Algorithms, Object-Oriented Programming, DBMS, and Software Architecture**, I focus not only on making applications work, but on making them **clean, efficient, secure, and scalable**.
+With a strong foundation in **Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks, and Software Architecture**, I focus not only on making applications work, but on making them **clean, efficient, secure, and scalable**.
 
 ```text
 💻 Full Stack Development
@@ -39,8 +54,6 @@ With a strong foundation in **Data Structures & Algorithms, Object-Oriented Prog
 🚀 Performance & Scalability
 ```
 
----
-
 # 🔥 Core Expertise
 
 ## ☕ Java Full Stack Development
@@ -53,14 +66,15 @@ With a strong foundation in **Data Structures & Algorithms, Object-Oriented Prog
 * RESTful API Development
 * JWT Authentication
 * MySQL
-* Database Design
+* Database Design & Optimization
 * Exception Handling
-* Validation
+* Input Validation
 * Layered Architecture
 * MVC Architecture
 * Backend Architecture
 * API Integration
 * System Design
+* Clean Code & Maintainability
 
 ## ⚛️ Frontend Development
 
@@ -72,10 +86,11 @@ With a strong foundation in **Data Structures & Algorithms, Object-Oriented Prog
 * Responsive UI Development
 * REST API Integration
 * State Management
+* Component-Based Architecture
 
 ## 🧩 Additional Full Stack Experience
 
-I also have experience working with the **MERN ecosystem**, which helps me understand different approaches to building modern full-stack applications.
+Alongside my primary Java stack, I also have experience with the **MERN ecosystem**, giving me broader exposure to modern full-stack development and different backend architectures.
 
 * MongoDB
 * Express.js
@@ -143,6 +158,24 @@ Database
 
 ---
 
+# 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xadarsh/xadarsh/output/github-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+# ✍️ My Philosophy
+
+> **"Every next level of your life demands a different version of you — so keep learning, keep building, and keep upgrading yourself."**
+
+<p align="center">
+  <b>☕ Code → 🧠 Learn → 🏗️ Build → 🚀 Deploy → 🔥 Improve</b>
+</p>
+
+---
+
 # 💻 Tech Stack
 
 ## 🚀 Languages
@@ -200,7 +233,7 @@ Database
 DSA              → Problem Solving • Algorithms • Complexity
 OOP              → Abstraction • Encapsulation • Inheritance • Polymorphism
 DBMS             → SQL • Transactions • Normalization • Indexing
-Operating Systems → Processes • Threads • Memory
+Operating Systems → Processes • Threads • Memory Management
 Networking       → HTTP • TCP/IP • Client-Server Architecture
 System Design    → Scalability • Architecture • APIs • Design Patterns
 ```
@@ -227,44 +260,6 @@ System Design    → Scalability • Architecture • APIs • Design Patterns
 
 ---
 
-# 🌐 Portfolio
-
-<p align="center">
-
-<a href="https://ichandrashekhar.vercel.app">
-<img src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio-ichandrashekhar.vercel.app-111827?style=for-the-badge"/>
-</a>
-
-</p>
-
-Explore my **projects, skills, development journey, and work** through my portfolio.
-
----
-
-# 🌍 Let's Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/chandrashekarsk">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Chandrashekharsk">
-<img src="https://img.shields.io/badge/GitHub-Follow-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/chandrashekhar_zz">
-<img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/cs9981625252">
-<img src="https://img.shields.io/badge/X-Follow-black.svg?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -283,24 +278,8 @@ Explore my **projects, skills, development journey, and work** through my portfo
 
 ---
 
-# 🐍 Contribution Graph
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xadarsh/xadarsh/output/github-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-# ✍️ My Philosophy
-
-> **"Every next level of your life demands a different version of you — so keep learning, keep building, and keep upgrading yourself."**
-
-<p align="center">
-  <b>☕ Code → 🧠 Learn → 🏗️ Build → 🚀 Deploy → 🔥 Improve</b>
-</p>
-
----
-
-<p align="center">
-  <i>Thanks for visiting my profile! Let's build something amazing together. 🚀</i>
+  <b>Thanks for visiting my profile! 🚀</b>
+  <br/>
+  <i>Let's build something meaningful together.</i>
 </p>
