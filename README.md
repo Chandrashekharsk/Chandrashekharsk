@@ -54,6 +54,16 @@ With a strong foundation in **Data Structures & Algorithms, Object-Oriented Prog
 🚀 Performance & Scalability
 ```
 
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xadarsh/xadarsh/output/github-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
 # 🔥 Core Expertise
 
 ## ☕ Java Full Stack Development
@@ -158,75 +168,6 @@ Database
 
 ---
 
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xadarsh/xadarsh/output/github-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-# ✍️ My Philosophy
-
-> **"Every next level of your life demands a different version of you — so keep learning, keep building, and keep upgrading yourself."**
-
-<p align="center">
-  <b>☕ Code → 🧠 Learn → 🏗️ Build → 🚀 Deploy → 🔥 Improve</b>
-</p>
-
----
-
-# 💻 Tech Stack
-
-## 🚀 Languages
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-
----
-
-## ☕ Backend & Java Ecosystem
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-
----
-
-## 🌐 Frontend
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-
----
-
-## 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
----
-
-## ⚙️ Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge\&logo=firebase\&logoColor=ffcd34)
-
----
-
 # 🧠 Computer Science Fundamentals
 
 ```text
@@ -274,6 +215,16 @@ System Design    → Scalability • Architecture • APIs • Design Patterns
 
 <img src="https://streak-stats.demolab.com?user=Chandrashekharsk&hide_border=true"/>
 
+</p>
+
+---
+
+# ✍️ My Philosophy
+
+> **"Every next level of your life demands a different version of you — so keep learning, keep building, and keep upgrading yourself."**
+
+<p align="center">
+  <b>☕ Code → 🧠 Learn → 🏗️ Build → 🚀 Deploy → 🔥 Improve</b>
 </p>
 
 ---
